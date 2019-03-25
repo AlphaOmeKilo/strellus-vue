@@ -1,4 +1,8 @@
-# vuex-auth-jwt
+# strellus-vue
+## References
+```
+https://www.pusher.com/tutorials/authentication-vue-vuex/
+```
 
 ## Project setup
 ```
